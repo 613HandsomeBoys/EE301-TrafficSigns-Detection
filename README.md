@@ -1,11 +1,4 @@
-# EE301_Traffic_Signs_Detection
-repo for EE301 project (Traffic Signs Detection)
+# EE301FZ 2022
+Repo for EE301FZ project (Traffic Signs Detection System)
 
 Group members: Hanlin Cai, Zheng Li, Jiaqi Hu
-
-
-
-Based on
-
-1. MATLAB
-2. python
